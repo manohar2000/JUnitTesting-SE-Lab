@@ -1,2 +1,2 @@
-# -JUnitTestExample
-Made for the software engineering lab  assignment
+JUnitTestExample
+Repository for Software Engineering Lab
